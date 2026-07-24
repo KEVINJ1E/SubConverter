@@ -25,7 +25,7 @@
 **1. 克隆或下载本项目**
 
 ```bash
-git clone 
+git clone https://github.com/KEVINJ1E/SubConverter.git
 ```
 
 **2. 安装依赖**
