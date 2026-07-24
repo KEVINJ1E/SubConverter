@@ -37,7 +37,7 @@ pip install requests pycryptodome pyyaml
 **3. 运行程序**
 
 ```bash
-pip install requests pycryptodome pyyaml
+python main.py
 ```
 
 **4. 提取订阅信息并转换**
