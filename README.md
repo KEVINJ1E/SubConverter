@@ -1,5 +1,5 @@
-# Custom_OpenClash_Rules_OLDK
-# # 自用的订阅转换模版
+# 提取加密订阅并转换的工作流
+
 [DNS泄露测试](https://ipleak.net/)
 
 [asailor的订阅转换](https://sub.asailor.org/)
