@@ -41,9 +41,9 @@
   有些客户端的订阅链接会直接存在本地的数据库中，路径如下：
 
   - **Mac**：`/Users/你的用户名/Library/Application Support/[机场名称]/database.db`
-  - **Windows**：`C:\Users\你的用户名\AppData\Roaming\[机场名称]\database.db`
+  - **Windows**：`C:\Users\你的用户名\AppData\Roaming\[机场名称]\database.db`（文件名有可能是database.sqlite）
 
-  用数据库工具打开后，里面就能找到订阅链接，最简单省事。
+  用Letos等数据库工具打开数据库文件后，在profiles表中就能找到订阅链接，最简单省事。
 
 ## ✨ 核心特性
 
