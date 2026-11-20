@@ -5,7 +5,10 @@ https://raw.githubusercontent.com/KEVINJ1E/SubConverter/refs/heads/main/Custom_C
 ```
 
 [DNS泄露测试](https://ipleak.net/)
+
 [网络环境检测](https://1ms.dog/zh-cn/)
+
+[在线订阅转换](https://sub.asailor.org/)
 
 订阅转换配置截图
 
